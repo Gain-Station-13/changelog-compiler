@@ -18,7 +18,7 @@ To run this program, you must have a valid changelog in the `.yml` format.
 
 ### Running with VSC
 
-This repo comes with a `launch.json` file configured with 2 launch configurations. One allows the user to input the arguments manually, the other has a pre-defined lists of arguments, which can be changed by the user. These can be used from the "Run and Debug" panel of VSC.
+This repo comes with a `launch.json` file configured with 6 launch configurations: 1 for custom arguments, one with preset example arguments, and 4 preset for specific scenarios. These are: printing only the contributor names, only the dates on which the changes were made, both names and dates and finally no names and no dates. All of these can be used from the "Run and Debug" panel of VSC.
 
 ### Options
 
