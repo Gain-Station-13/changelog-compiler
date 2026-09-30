@@ -13,8 +13,6 @@ def print_intro() -> str:
 
     return "# Changes in " + month_text + ":\n\n"
 
-# test commit
-
 def read_yaml(print_dates: bool = False, 
                 print_names: bool = False, 
                 input_path: str = "./"):
